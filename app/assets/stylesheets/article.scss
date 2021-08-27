@@ -12,6 +12,18 @@ $avatar-size: 32px;
     font-size: 22px;
   }
 
+  h2 {
+    font-size: 16px;
+  }
+
+  &_title {
+    font-size: 22px;
+  }
+
+  &_comment {
+    padding: 12px 0;
+  }
+
   &_detail {
     padding-top: 10px;
     display: flex;
